@@ -1,1 +1,1 @@
-# DemoTest
+# Demo Project following an online lesson 
