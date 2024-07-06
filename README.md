@@ -1,2 +1,2 @@
-# Demo Project following an online lesson
+# Demo Project 
 Spring Security using basic Authentication and BCryptPasswordEncoder 
