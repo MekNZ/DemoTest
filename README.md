@@ -1,2 +1,2 @@
 # Demo Project 
-Spring Security using basic Authentication and BCryptPasswordEncoder 
+Spring Security using form base basic Authentication and BCryptPasswordEncoder 
